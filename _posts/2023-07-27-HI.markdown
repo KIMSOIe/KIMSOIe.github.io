@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "HI!"
+date:   2023-07-27 21:11:26 +0900
+categories: soi update
+---
+# Welcome
+
+**Hello world**, this is my first blog post.
+
+I hope you like it!
