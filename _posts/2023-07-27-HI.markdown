@@ -6,7 +6,7 @@ categories: soi update
 ---
 # Welcome
 
-**Hello world**, 
+**Hello world**
 
 this is my first blog post.
 
