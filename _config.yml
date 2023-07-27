@@ -1,8 +1,8 @@
 title:              SOI blog
 email:              eleksy25@gmail.com
-description:        
-author:             Kimsoi
-baseurl:            "/soi"
+description:        A Blog Theme by Start Bootstrap
+author:             Start Bootstrap
+baseurl:            "/startbootstrap-clean-blog-jekyll"
 url:                "https://startbootstrap.github.io"
 
 # Social Profiles
