@@ -2,10 +2,12 @@
 layout: post
 title:  "HI!"
 date:   2023-07-27 21:11:26 +0900
-categories: soi update
+background : '/img/posts/06.jpg'
+categories: ['programming', 'python']
 ---
-# Welcome
 
-**Hello world**, this is my first blog post.
+
+**Hello world**
+this is my first blog post.
 
 I hope you like it!
