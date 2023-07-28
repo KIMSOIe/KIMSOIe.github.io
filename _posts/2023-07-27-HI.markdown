@@ -3,7 +3,7 @@ layout: post
 title:  "HI!"
 date:   2023-07-27 21:11:26 +0900
 background : '/img/posts/06.jpg'
-categories: ['programming', 'python']
+categories: ['programing', 'python']
 ---
 
 **Hello world**
