@@ -6,8 +6,14 @@ background : '/img/posts/06.jpg'
 categories: ['programming', 'python']
 ---
 
+<<<<<<< HEAD
 
 **Hello world**
+this is my first blog post.
+=======
+**Hello world**
+>>>>>>> 4aad75ba46ba90fb83fbaeb465438877ae13888a
+
 this is my first blog post.
 
 I hope you like it!
