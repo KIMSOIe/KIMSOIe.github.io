@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "[CS231n] Lecture 2 정리 노트"
+date:   2023-07-29 14:30:30 +0900
+background : '/img/posts/06.jpg'
+categories: ['CS231n']
+---
+
+**Lecutre 2. Image classification**
+* __1 Image classification__
+    *   Image classification은 입력이미지에 대해 이미 알고 있는 category 의 한 label을 할당하는 것을 의미한다.
+
+        
+    추가설명
+    :dog:입력이미지는 강아지 
+    :books: category = {'강아지', '고양이', '병아리'}
+    :computer: 컴퓨터 입장에서 강아지 이미지는 단순 3차원 행렬일뿐! (W x H X 3)
+
+
+    컴퓨터가 행렬을 강아지 이미지라고 인식하도록 만들어야함 -----> Image classification
+
+
