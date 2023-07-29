@@ -6,6 +6,9 @@ date:   2023-07-29 14:30:30 +0900
 background : '/img/posts/lecture2.jpg'
 categories: ['CS231n']
 ---
+
+###### 맘대로 정리하고 공부하는 중! 강의 내용과 다를 수 있음 🙈
+
 ## __1. Image classification__ 
 * Image classification은 입력이미지에 대해 이미 알고 있는 category 의 한 label을 할당하는 것을 의미함
 
